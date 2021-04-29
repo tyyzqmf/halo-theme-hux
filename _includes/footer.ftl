@@ -112,11 +112,13 @@
      - https://help.github.com/articles/creating-and-highlighting-code-blocks/
 -->
 
+<!--
 <script>
     async("//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.7.2/build/highlight.min.js", function(){
         hljs.initHighlightingOnLoad();
     })
 </script>
+-->
 
 <!-- jquery.tagcloud.js -->
 <script>
