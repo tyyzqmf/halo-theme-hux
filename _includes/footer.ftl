@@ -111,13 +111,13 @@
      - https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
      - https://help.github.com/articles/creating-and-highlighting-code-blocks/
 -->
-<!--
+
 <script>
-    async("//cdn.jsdelivr.net/npm/highlight.js@8.6.0/lib/highlight.min.js", function(){
+    async("//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.7.2/build/highlight.min.js", function(){
         hljs.initHighlightingOnLoad();
     })
 </script>
--->
+
 <!-- jquery.tagcloud.js -->
 <script>
     // only load tagcloud.js in tag.html
