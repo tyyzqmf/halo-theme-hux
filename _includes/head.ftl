@@ -18,8 +18,9 @@
 
     <!-- Pygments Github CSS -->
     <link rel="stylesheet" href="${theme_base!}/source/css/syntax.css">
+    <!--
     <link href="//cdn.jsdelivr.net/npm/highlight.js@8.6.0/styles/github.min.css" rel="stylesheet">
-
+    -->
     <link href="//cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
 
